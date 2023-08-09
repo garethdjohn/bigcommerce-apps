@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "name": "bigcommerce-apps",
+  "author": "Gareth John <gdjohn@logicalparadox.co.uk>",
+  "license": "MIT"
+}
